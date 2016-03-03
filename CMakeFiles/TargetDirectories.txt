@@ -1,0 +1,9 @@
+/Users/miranus/work/Devs/bubble_absoprtion_particle/bubble_ris_ver0.1/CMakeFiles/runclean.dir
+/Users/miranus/work/Devs/bubble_absoprtion_particle/bubble_ris_ver0.1/CMakeFiles/sign.dir
+/Users/miranus/work/Devs/bubble_absoprtion_particle/bubble_ris_ver0.1/CMakeFiles/mismix_p4est.dir
+/Users/miranus/work/Devs/bubble_absoprtion_particle/bubble_ris_ver0.1/CMakeFiles/strip_comments.dir
+/Users/miranus/work/Devs/bubble_absoprtion_particle/bubble_ris_ver0.1/CMakeFiles/run.dir
+/Users/miranus/work/Devs/bubble_absoprtion_particle/bubble_ris_ver0.1/CMakeFiles/info.dir
+/Users/miranus/work/Devs/bubble_absoprtion_particle/bubble_ris_ver0.1/CMakeFiles/debug.dir
+/Users/miranus/work/Devs/bubble_absoprtion_particle/bubble_ris_ver0.1/CMakeFiles/distclean.dir
+/Users/miranus/work/Devs/bubble_absoprtion_particle/bubble_ris_ver0.1/CMakeFiles/release.dir
